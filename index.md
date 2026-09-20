@@ -9,25 +9,21 @@ I'm Tom Salzer, callsign KJ7T, grid CN87. Conservationist, sailor, geologist, an
 
 ## Station Overview
 
-- **Home station:** _[fill in — rig(s), antennas]_
-- **Mobile:** 2023 Honda Ridgeline — _[fill in — rig, antenna]_
-
-## HF Station
-
-_[fill in — rig, antenna, bands worked, any HF-specific projects]_
+- **Home station:** _Icom IC-7300 MK2 and EFHW antenna_
+- **Mobile:** _2023 Honda Ridgeline — Yaesu FTM-300DR (VFO B runs APRS)_
 
 ## Digital Voice & AllStar
 
-- [Node 588416]({{ site.baseurl }}/588416) — _[one-line description]_
-- [Node 578494]({{ site.baseurl }}/578494) — _[one-line description]_
-- [Node 588418]({{ site.baseurl }}/588418) — _[one-line description]_
-- [Node 578493]({{ site.baseurl }}/578493) — _[one-line description]_
+- [Node 588416]({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives_
+- [Node 578494]({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with DVSwitch_
+- [Node 588418]({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101_
+- [Node 578493]({{ site.baseurl }}/578493) — _578493 is a half-duplex AllScan ANH100_
 
 ## Packet & Messaging
 
-- **APRS:** iGate and digipeater on 144.390 MHz
-- **LoRa APRS:** _[fill in — station details]_
-- **Packet BBS / Winlink:** in progress — _[one-line status]_
+- **APRS:** _One-watt iGate and digipeater on 144.390 MHz_
+- **LoRa APRS:** _T-Deck Plus iGate and digi on 433 MHz_
+- **Packet BBS / Winlink:** _in progress (new project_
 
 ## Writing & Projects
 
