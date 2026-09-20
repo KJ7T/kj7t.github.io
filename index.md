@@ -31,6 +31,7 @@ I'm Tom Salzer, callsign KJ7T, grid CN87. Conservationist, sailor, geologist, an
 - [Random Wire](https://randomwire.substack.com) — weekly amateur radio newsletter
 - [GitHub: EtherHamRadio](https://github.com/EtherHamRadio) — code and repos behind the published work
 - [GitHub: KJ7T](https://github.com/KJ7T) — this site and node documentation
+- [QRZ: KJ7T](https://www.qrz.com/db/KJ7T) - my QRZ page
 
 ## Contact KJ7T
-- Email Tom at tsalzer@pm.me
+- Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me)
