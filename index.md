@@ -14,10 +14,10 @@ I'm Tom Salzer, callsign KJ7T, grid CN87. Conservationist, sailor, geologist, an
 
 ## Digital Voice & AllStar
 
-- [Node 588416]({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives_
-- [Node 578494]({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with DVSwitch_
-- [Node 588418]({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101_
 - [Node 578493]({{ site.baseurl }}/578493) — _578493 is a half-duplex AllScan ANH100_
+- [Node 578494]({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with DVSwitch_
+- [Node 588416]({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives_
+- [Node 588418]({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101_
 
 ## Packet & Messaging
 
