@@ -23,7 +23,7 @@ I'm Tom Salzer, callsign KJ7T, grid CN87. Conservationist, sailor, geologist, an
 
 - **APRS:** _One-watt iGate and digipeater on 144.390 MHz_
 - **LoRa APRS:** _T-Deck Plus iGate and digi on 433 MHz_
-- **Packet BBS / Winlink:** _in progress (new project_
+- **Packet BBS / Winlink:** _in progress (new project)_
 
 ## Writing & Projects
 
@@ -31,3 +31,6 @@ I'm Tom Salzer, callsign KJ7T, grid CN87. Conservationist, sailor, geologist, an
 - [Random Wire](https://randomwire.substack.com) — weekly amateur radio newsletter
 - [GitHub: EtherHamRadio](https://github.com/EtherHamRadio) — code and repos behind the published work
 - [GitHub: KJ7T](https://github.com/KJ7T) — this site and node documentation
+
+## Contact KJ7T
+- Email Tom at tsalzer@pm.me
