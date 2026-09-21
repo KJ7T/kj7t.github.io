@@ -18,7 +18,7 @@ I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, a
 - [Node 578494]({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with DVSwitch (portable)._
 - [Node 588416]({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives (Portland, Oregon)._
 - [Node 588418]({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101 (Grapeview, Washington)._
-- [DVSwitch] — _BlueDV on my laptop with a DVStick is how I operate YSF while traveling._
+- DVStick — _BlueDV on my laptop with a DVStick is how I operate YSF while traveling._
 
 ## Packet & Messaging
 
