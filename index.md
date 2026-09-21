@@ -22,19 +22,19 @@ I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, a
 
 ## Packet & Messaging
 
-- **APRS:** _One-watt iGate and digipeater on 144.390 MHz_
-- **LoRa APRS:** _T-Deck Plus iGate and digi on 433 MHz_
-- **Packet BBS / Winlink:** _in progress (new project)_
+- **APRS** — _One-watt iGate and digipeater on 144.390 MHz._
+- **LoRa APRS** — _T-Deck Plus iGate and digi on 433 MHz._
+- **Packet BBS / Winlink** — _in progress (new project)._
 
 ## Writing & Projects
 
-- [EtherHam](https://etherham.com) — technical, workbench-style amateur radio articles
-- [Random Wire](https://randomwire.substack.com) — weekly amateur radio newsletter
-- [GitHub: EtherHamRadio](https://github.com/EtherHamRadio) — code and repos behind the published work
-- [GitHub: KJ7T](https://github.com/KJ7T) — this site and node documentation
-- [QRZ: KJ7T](https://www.qrz.com/db/KJ7T) - my QRZ page
+- [EtherHam](https://etherham.com) — technical, workbench-style amateur radio articles.
+- [Random Wire](https://randomwire.substack.com) — weekly amateur radio newsletter.
+- [GitHub: EtherHamRadio](https://github.com/EtherHamRadio) — code and repos behind the published work.
+- [GitHub: KJ7T](https://github.com/KJ7T) — this site and node documentation.
+- [QRZ: KJ7T](https://www.qrz.com/db/KJ7T) - my QRZ page.
 
 ## Contact KJ7T
-- Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me)
+- Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me).
 
 <p style="text-align: center;">###</p>
