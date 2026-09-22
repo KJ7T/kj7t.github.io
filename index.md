@@ -20,6 +20,13 @@ I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, a
 - [Node 588418]({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101 (Grapeview, Washington)._
 - DVStick — _BlueDV on my laptop with a DVStick is how I operate YSF while traveling._
 
+## Hotspots
+
+- Many with Raspberry Pi computers (Pi Zero 2W, Pi 3B, Pi 4, Pi 5).
+- One AllStar node with Ampersand-ASL on a Computer Module 4 platform.
+- One AllStar node with Ampersand-ASL on an Arduino UNO Q platform.
+- ClearNode, Kits4Hams SHARI node, Bridgecom DMR hotspot.
+
 ## Packet & Messaging
 
 - **APRS** — _One-watt iGate and digipeater on 144.390 MHz._
