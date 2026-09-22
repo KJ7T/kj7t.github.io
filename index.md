@@ -5,7 +5,7 @@ title: KJ7T — Tom Salzer
 
 # KJ7T
 
-I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, and amateur radio operator. By day I lead conservation district work across Washington State. On the air, you'll find me active on AllStarLink, DMR, D-STAR, M17, and Yaesu System Fusion, along with HF, packet, and APRS. This site documents some of the stations and nodes behind the callsign, along with projects I'm exploring.
+I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, and amateur radio operator. By day I lead conservation district work across Washington State. On the air, you'll find me active on AllStarLink, DMR, D-STAR, M17, and Yaesu System Fusion, along with HF, packet, and APRS. This site documents some of the radios and nodes behind the callsign, along with projects I'm exploring.
 
 ## Station Overview
 
