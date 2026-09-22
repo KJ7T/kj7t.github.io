@@ -10,7 +10,7 @@ I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, a
 ## Station Overview
 
 - **Home station:** _Icom IC-7300 MK2 and EFHW antenna. Yaesu FT-450D is my backup radio._
-- **Mobile:** _2023 Honda Ridgeline — Yaesu FTM-300DR (VFO B runs APRS)._
+- **Mobile:** _2023 Honda Ridgeline — Yaesu FTM-300DR (VFO B runs APRS) — Comet SBB-2 2M/70cm antenna._
 
 ## Digital Voice & AllStar
 
