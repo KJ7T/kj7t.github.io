@@ -5,7 +5,7 @@ title: KJ7T — Tom Salzer
 
 # KJ7T
 
-I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, and amateur radio operator. By day I lead conservation district work across Washington State. On the air, you'll find me active on AllStarLink, DMR, D-STAR, M17, and Yaesu System Fusion, along with HF, packet, and APRS. This site documents some of the radios and nodes behind the callsign, along with projects I'm exploring.
+**I'm Tom Salzer, call sign KJ7T, grid CN87.** Conservationist, sailor, geologist, and amateur radio operator. By day, I lead conservation district work across Washington State. On the air, you'll find me active on AllStarLink, DMR, D-STAR, M17, and Yaesu System Fusion, along with HF, packet, and APRS. This site documents some of the radios and nodes behind the callsign, along with projects I'm exploring.
 
 ## Station Overview
 
@@ -22,10 +22,10 @@ I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, a
 
 ## Hotspots
 
-- Many with Raspberry Pi computers (Pi Zero 2W, Pi 3B, Pi 4, Pi 5).
-- One AllStar node with Ampersand-ASL on a Computer Module 4 platform.
-- One AllStar node with Ampersand-ASL on an Arduino UNO Q platform.
-- ClearNode, Kits4Hams SHARI node, Bridgecom DMR hotspot.
+- Raspberry Pi — _Many built on Pi Zero 2W, Pi 3B, Pi 4, and Pi 5 platforms, most for AllStar, some for YSF, DMR, M17._
+- Computer Module 4 — _One AllStar node with Ampersand-ASL built on the CM4 platform._
+- Arduino UNO Q — _One AllStar node with Ampersand-ASL on the Arduino UNO Q platform._
+- Others — _ClearNode, Kits4Hams SHARI node, Bridgecom DMR hotspot._
 
 ## Packet & Messaging
 
