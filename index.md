@@ -29,9 +29,9 @@ I'm Tom Salzer, call sign KJ7T, grid CN87. Conservationist, sailor, geologist, a
 
 ## Packet & Messaging
 
-- **APRS** — _One-watt iGate and digipeater on 144.390 MHz._
-- **LoRa APRS** — _T-Deck Plus iGate and digi on 433 MHz._
-- **Packet BBS / Winlink** — _in progress (new project)._
+- APRS — _One-watt iGate and digipeater on 144.390 MHz._
+- LoRa APRS — _T-Deck Plus iGate and digi on 433 MHz._
+- Packet BBS / Winlink — _in progress (new project)._
 
 ## Writing & Projects
 
