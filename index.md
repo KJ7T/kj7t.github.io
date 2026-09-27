@@ -44,4 +44,6 @@ title: KJ7T — Tom Salzer
 ## Contact KJ7T
 - Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me).
 
+![KJ7T logo](/assets/kj7t-logo-512.png){: width="128"}
+
 <p style="text-align: center;">###</p>
