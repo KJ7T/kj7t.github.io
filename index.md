@@ -3,7 +3,7 @@ layout: default
 title: KJ7T — Tom Salzer
 ---
 
-# KJ7T
+<p align="center"><img src="/assets/kj7t-logo-512.png" alt="KJ7T logo" width="128"></p>
 
 **I'm Tom Salzer, call sign KJ7T, grid CN87 (Washington) and grid CN85 (Oregon).** Conservationist, sailor, geologist, and amateur radio operator. By day, I lead conservation district work across Washington State. On the air, you'll find me active on AllStarLink, DMR, D-STAR, M17, and Yaesu System Fusion, along with HF, packet, and APRS. This site documents some of the radios and nodes behind the callsign, along with projects I'm exploring.
 
@@ -43,7 +43,5 @@ title: KJ7T — Tom Salzer
 
 ## Contact KJ7T
 - Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me).
-
-![KJ7T logo](/assets/kj7t-logo-512.png){: width="128"}
 
 <p style="text-align: center;">###</p>
