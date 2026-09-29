@@ -14,10 +14,10 @@ title: KJ7T — Tom Salzer
 
 ## Digital Voice & AllStar
 
-- **[Node 578493]**({{ site.baseurl }}/578493) — _578493 is a half-duplex AllScan ANH100 (Portland, Oregon)._
-- **[Node 578494]**({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with Cockpit, ASL3, DVSwitch (portable)._
-- **[Node 588416]**({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives (Portland, Oregon)._
-- **[Node 588418]**({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101 (Grapeview, Washington)._
+- **[Node 578493]({{ site.baseurl }}/578493)** — _578493 is a half-duplex AllScan ANH100 (Portland, Oregon)._
+- **[Node 578494]({{ site.baseurl }}/578494)** — _578494 is a converted Evolve laptop with Cockpit, ASL3, DVSwitch (portable)._
+- **[Node 588416]({{ site.baseurl }}/588416)** — _588416 is where the Transcription Logger lives (Portland, Oregon)._
+- **[Node 588418]({{ site.baseurl }}/588418)** — _588418 is a full-duplex AllScan ANF101 (Grapeview, Washington)._
 - **DVStick** — _BlueDV on my laptop with a DVStick is how I operate YSF while traveling._
 
 ## Hotspots
@@ -35,11 +35,11 @@ title: KJ7T — Tom Salzer
 
 ## Writing & Projects
 
-- **[EtherHam]**(https://etherham.com) — _technical, workbench-style amateur radio articles_.
-- **[Random Wire]**(https://randomwire.substack.com) — _weekly amateur radio newsletter_.
-- **[GitHub: EtherHamRadio]**(https://github.com/EtherHamRadio) — _code and repos behind the published work_.
-- **[GitHub: KJ7T]**(https://github.com/KJ7T) — _this site and node documentation_.
-- **[QRZ: KJ7T]**(https://www.qrz.com/db/KJ7T) - _my QRZ page_.
+- **[EtherHam](https://etherham.com)** — _technical, workbench-style amateur radio articles_.
+- **[Random Wire](https://randomwire.substack.com)** — _weekly amateur radio newsletter_.
+- **[GitHub: EtherHamRadio](https://github.com/EtherHamRadio)** — _code and repos behind the published work_.
+- **[GitHub: KJ7T](https://github.com/KJ7T)** — _this site and node documentation_.
+- **[QRZ: KJ7T](https://www.qrz.com/db/KJ7T)** - _my QRZ page_.
 
 ## Contact KJ7T
 - Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me).
