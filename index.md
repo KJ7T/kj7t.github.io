@@ -14,32 +14,32 @@ title: KJ7T — Tom Salzer
 
 ## Digital Voice & AllStar
 
-- [Node 578493]({{ site.baseurl }}/578493) — _578493 is a half-duplex AllScan ANH100 (Portland, Oregon)._
-- [Node 578494]({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with Cockpit, ASL3, DVSwitch (portable)._
-- [Node 588416]({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives (Portland, Oregon)._
-- [Node 588418]({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101 (Grapeview, Washington)._
-- DVStick — _BlueDV on my laptop with a DVStick is how I operate YSF while traveling._
+- **[Node 578493]**({{ site.baseurl }}/578493) — _578493 is a half-duplex AllScan ANH100 (Portland, Oregon)._
+- **[Node 578494]**({{ site.baseurl }}/578494) — _578494 is a converted Evolve laptop with Cockpit, ASL3, DVSwitch (portable)._
+- **[Node 588416]**({{ site.baseurl }}/588416) — _588416 is where the Transcription Logger lives (Portland, Oregon)._
+- **[Node 588418]**({{ site.baseurl }}/588418) — _588418 is a full-duplex AllScan ANF101 (Grapeview, Washington)._
+- **DVStick** — _BlueDV on my laptop with a DVStick is how I operate YSF while traveling._
 
 ## Hotspots
 
-- Raspberry Pi — _Many built on Pi Zero 2W, Pi 3B, Pi 4, and Pi 5 platforms, most for AllStar, some for YSF, DMR, M17._
-- Computer Module 4 — _One AllStar node with Ampersand-ASL built on the CM4 platform._
-- Arduino UNO Q — _One AllStar node with Ampersand-ASL on the Arduino UNO Q platform._
-- Others — _ClearNode, Kits4Hams SHARI node, Bridgecom DMR hotspot._
+- **Raspberry Pi** — _Many built on Pi Zero 2W, Pi 3B, Pi 4, and Pi 5 platforms, most for AllStar, some for YSF, DMR, M17._
+- **Computer Module 4** — _One AllStar node with Ampersand-ASL built on the CM4 platform._
+- **Arduino UNO Q** — _One AllStar node with Ampersand-ASL on the Arduino UNO Q platform._
+- **Others** — _ClearNode, Kits4Hams SHARI node, Bridgecom DMR hotspot._
 
 ## Packet & Messaging
 
-- APRS — _One-watt iGate and digipeater on 144.390 MHz._
-- LoRa APRS — _T-Deck Plus iGate and digi on 433 MHz._
-- Packet BBS / Winlink — _in progress (new project)._
+- **APRS** — _One-watt iGate and digipeater on 144.390 MHz._
+- **LoRa APRS** — _T-Deck Plus iGate and digi on 433 MHz._
+- **Packet BBS / Winlink** — _in progress (new project)._
 
 ## Writing & Projects
 
-- [EtherHam](https://etherham.com) — _technical, workbench-style amateur radio articles_.
-- [Random Wire](https://randomwire.substack.com) — _weekly amateur radio newsletter_.
-- [GitHub: EtherHamRadio](https://github.com/EtherHamRadio) — _code and repos behind the published work_.
-- [GitHub: KJ7T](https://github.com/KJ7T) — _this site and node documentation_.
-- [QRZ: KJ7T](https://www.qrz.com/db/KJ7T) - _my QRZ page_.
+- **[EtherHam]**(https://etherham.com) — _technical, workbench-style amateur radio articles_.
+- **[Random Wire]**(https://randomwire.substack.com) — _weekly amateur radio newsletter_.
+- **[GitHub: EtherHamRadio]**(https://github.com/EtherHamRadio) — _code and repos behind the published work_.
+- **[GitHub: KJ7T]**(https://github.com/KJ7T) — _this site and node documentation_.
+- **[QRZ: KJ7T]**(https://www.qrz.com/db/KJ7T) - _my QRZ page_.
 
 ## Contact KJ7T
 - Email Tom at [tsalzer@pm.me](mailto:tsalzer@pm.me).
